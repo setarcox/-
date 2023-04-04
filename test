@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T13:19:15.768Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VFoA8iZn2ul93SINyRYl" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T13:26:43.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="l2sTdDEfvW1X9LKJycld" version="21.1.4" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1350" value="Mammal" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1350" value="基础数学" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="523.5" y="271.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1351" value="Insect" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="1351" value="分析" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="1103.5" y="241.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1352" value="Bird" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1352" value="应用数学" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1701" y="356.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1353" value="Fish" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1353" value="离散数学" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1936" y="806.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1354" value="Bacteria" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1354" value="抽象数学" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1711" y="1171.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1355" value="Fungi" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1355" value="跨学科" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1163.5" y="1309" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1356" value="Flower" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="1357" value="Ant" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1358" value="Dolphin" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="416.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,11 +58,8 @@
             <mxPoint x="281" y="226.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1367" value="Lion" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1367" value="算数" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="418.5" y="466.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1368" value="Elephant" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="318.5" y="346.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1369" value="Cat" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="271.5" width="130" height="40" as="geometry" />
@@ -727,8 +721,8 @@
         <mxCell id="1514" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;startArrow=none;startFill=0;endArrow=block;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12aab5;strokeWidth=6;fontSize=20;fontColor=#2F5B7C;" parent="1" source="1414" target="1414" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1515" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;LIVING&lt;br&gt;BEINGS&lt;/font&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
+        <mxCell id="1515" value="数学" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1033.5" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="Tree" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="312" y="721.5" width="120" height="120" as="geometry" />
@@ -849,6 +843,15 @@
         </mxCell>
         <mxCell id="1542" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#736CA8;strokeWidth=2;fillColor=#64bbe2;fontSize=20;fontColor=#23445D;" parent="1" source="1529" target="1529" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bgjQhIjYu4pIHOLt-IgQ-1542" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="346.5" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1358" value="代数" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="bgjQhIjYu4pIHOLt-IgQ-1542" vertex="1">
+          <mxGeometry x="30" y="70" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1368" value="Elephant" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="bgjQhIjYu4pIHOLt-IgQ-1542" vertex="1">
+          <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
